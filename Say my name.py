@@ -1,7 +1,7 @@
 # Say my name
 
 text = input("Who the hell are you? ")
-if input == "You know. You all know exactly who I am. Say my name.":
+if text == ("You know. You all know exactly who I am. Say my name."):
     print("Do what? I don't... I don't have a damn clue who the hell you are ")
 else:
     print("Scene failed")
