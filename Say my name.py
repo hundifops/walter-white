@@ -1,9 +1,6 @@
 # Say my name. You have to input the exact wording from the hit TV show *Breaking Bad*, or else you lose :(
 
-from os import kill
-
-
-scene = kill
+scene = print("You've been killed by the heisenburg")
 
 text = input("Who the hell are you? ")
 if text == ("You know. You all know exactly who I am. Say my name."):
